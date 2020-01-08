@@ -14,4 +14,4 @@ lock_based_synchronisation package contains the code which shows how lock-based 
 the second folder: stm_deadlocks
 it consists of two packages: deadlock_lbs and deadlocks_stm. again, each package has its main method can be executed alone.
 deadlock_lbs package shows how deadlocks can occur when lock-based synchronisation is used 
-deadlock_stm package shows how deadlocks do not occur when STM approach is used
+deadlock_stm package shows how deadlocks do not occur when the STM approach is used
